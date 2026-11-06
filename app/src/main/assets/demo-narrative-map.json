@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "assetSha256": "9dd996495f216e557775b759b4cf74a840426b20a8dd6956ba2b825d5162ae9e",
+  "language": "en",
+  "durationMs": 45374,
+  "analysisVersion": "quietchapter-narrative-1",
+  "cacheKey": "99d2efe23627801d78f8a2cc9c46d9bc67c3b5336a9e61825a34a789e395c325",
+  "status": "READY_PARTIAL",
+  "chapters": [
+    {
+      "id": "chapter:1",
+      "startMs": 0,
+      "endMs": 24000
+    },
+    {
+      "id": "chapter:2",
+      "startMs": 24000,
+      "endMs": 45374
+    }
+  ],
+  "annotations": [
+    {
+      "id": "authored-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 0,
+      "endMs": 24000,
+      "kind": "CHAPTER",
+      "source": "AUTHORED_CHAPTER",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-0-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 0,
+      "endMs": 192,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "paragraph-1",
+      "chapterId": "chapter:1",
+      "startMs": 90,
+      "endMs": 16600,
+      "kind": "PARAGRAPH",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "At the edge of a quiet town, a small library opened its windows to the morning. Mira placed a blue notebook on the table and began a list of things she wanted to remember. The sound of rain on the roof. The smell of fresh bread. A story her grandfather told about a boat that never left the river."
+    },
+    {
+      "id": "sentence-1",
+      "chapterId": "chapter:1",
+      "startMs": 90,
+      "endMs": 4775,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "At the edge of a quiet town, a small library opened its windows to the morning."
+    },
+    {
+      "id": "speech-0-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 192,
+      "endMs": 4736,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-1-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 4736,
+      "endMs": 4928,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-2",
+      "chapterId": "chapter:1",
+      "startMs": 4920,
+      "endMs": 9745,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "VERIFIED",
+      "text": "Mira placed a blue notebook on the table and began a list of things she wanted to remember."
+    },
+    {
+      "id": "speech-1-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 4928,
+      "endMs": 9728,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-2-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 9728,
+      "endMs": 9888,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-2-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 9888,
+      "endMs": 11264,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-3",
+      "chapterId": "chapter:1",
+      "startMs": 9890,
+      "endMs": 11530,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "The sound of rain on the roof."
+    },
+    {
+      "id": "silence-3-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 11264,
+      "endMs": 11456,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-4",
+      "chapterId": "chapter:1",
+      "startMs": 11450,
+      "endMs": 12795,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "VERIFIED",
+      "text": "The smell of fresh bread."
+    },
+    {
+      "id": "speech-3-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 11456,
+      "endMs": 12768,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-4-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 12768,
+      "endMs": 12928,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-5",
+      "chapterId": "chapter:1",
+      "startMs": 12920,
+      "endMs": 16600,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "A story her grandfather told about a boat that never left the river."
+    },
+    {
+      "id": "speech-4-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 12928,
+      "endMs": 16544,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-5-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 16544,
+      "endMs": 16768,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-6",
+      "chapterId": "chapter:1",
+      "startMs": 16760,
+      "endMs": 18270,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "She turned the page."
+    },
+    {
+      "id": "speech-5-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 16768,
+      "endMs": 17856,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-6-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 17856,
+      "endMs": 18048,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-6-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 18048,
+      "endMs": 18848,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-7",
+      "chapterId": "chapter:1",
+      "startMs": 18050,
+      "endMs": 23200,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "Outside, the baker waved to a neighbor, and a bicycle bell rang once."
+    },
+    {
+      "id": "silence-7-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 18848,
+      "endMs": 18976,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-7-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 18976,
+      "endMs": 22624,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-8-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 22624,
+      "endMs": 22880,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-8",
+      "chapterId": "chapter:1",
+      "startMs": 22870,
+      "endMs": 24200,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "Nothing hurried."
+    },
+    {
+      "id": "speech-8-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 22880,
+      "endMs": 23712,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-9-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 23712,
+      "endMs": 23904,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-9",
+      "chapterId": "chapter:1",
+      "startMs": 23900,
+      "endMs": 30340,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "Mira read a chapter, closed her eyes for a moment, and found that she could still picture every room in the story."
+    },
+    {
+      "id": "speech-9-chapter:1",
+      "chapterId": "chapter:1",
+      "startMs": 23904,
+      "endMs": 24000,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "authored-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 24000,
+      "endMs": 45374,
+      "kind": "CHAPTER",
+      "source": "AUTHORED_CHAPTER",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-9-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 24000,
+      "endMs": 25088,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-10-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 25088,
+      "endMs": 25216,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-10-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 25216,
+      "endMs": 26880,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-11-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 26880,
+      "endMs": 26976,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-11-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 26976,
+      "endMs": 30272,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-12-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 30272,
+      "endMs": 30496,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "paragraph-3",
+      "chapterId": "chapter:2",
+      "startMs": 30340,
+      "endMs": 45281,
+      "kind": "PARAGRAPH",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "Later that afternoon, she walked to the river with the notebook in her pocket. The water moved slowly beneath the bridge. She sat on a bench and wrote one final sentence: a good story waits for you to return. Then she put down her pen and watched the clouds change shape."
+    },
+    {
+      "id": "sentence-10",
+      "chapterId": "chapter:2",
+      "startMs": 30340,
+      "endMs": 34590,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "Later that afternoon, she walked to the river with the notebook in her pocket."
+    },
+    {
+      "id": "speech-12-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 30496,
+      "endMs": 34528,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-13-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 34528,
+      "endMs": 34752,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-11",
+      "chapterId": "chapter:2",
+      "startMs": 34740,
+      "endMs": 37060,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "The water moved slowly beneath the bridge."
+    },
+    {
+      "id": "speech-13-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 34752,
+      "endMs": 36736,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-14-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 36736,
+      "endMs": 36896,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-14-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 36896,
+      "endMs": 39776,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-12",
+      "chapterId": "chapter:2",
+      "startMs": 36910,
+      "endMs": 41930,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "ADVISORY",
+      "text": "She sat on a bench and wrote one final sentence: a good story waits for you to return."
+    },
+    {
+      "id": "silence-15-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 39776,
+      "endMs": 39968,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-15-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 39968,
+      "endMs": 41888,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "silence-16-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 41888,
+      "endMs": 42048,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "speech-16-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 42048,
+      "endMs": 45373,
+      "kind": "SPEECH",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    },
+    {
+      "id": "sentence-13",
+      "chapterId": "chapter:2",
+      "startMs": 42080,
+      "endMs": 45281,
+      "kind": "SENTENCE",
+      "source": "TRANSCRIPT_ALIGNED_SENTENCE",
+      "reliability": "VERIFIED",
+      "text": "Then she put down her pen and watched the clouds change shape."
+    },
+    {
+      "id": "silence-17-chapter:2",
+      "chapterId": "chapter:2",
+      "startMs": 45373,
+      "endMs": 45374,
+      "kind": "SILENCE",
+      "source": "ACOUSTIC_VAD",
+      "reliability": "VERIFIED"
+    }
+  ],
+  "analysis": {
+    "whisperCpp": "1.9.5",
+    "model": "base.en",
+    "modelSha256": "a03779c86df3323075f5e796cb2ce5029f00ec8869eee3fdfb897afe36c6d002",
+    "vad": "Silero6.2.3ONNX",
+    "vadSha256": "1a153a22f4509e292a94e67d6f9b85e8deb25b4988682b7e174c65279d8788e3",
+    "canonicalTextSha256": "819c5af1c5e066696de218ec6a5ed5d948cb45978c89ed0241f89d46414ec2ad",
+    "semanticMethod": "Authored punctuation + independently recognized word alignment + acoustic timing corroboration; not narrative comprehension",
+    "optionalSceneDialogueDensity": "Not inferred; empty annotations are unknown, not absent in all content",
+    "vadSeconds": 0.31180404100450687,
+    "asrSeconds": 4.135074249992613,
+    "canonicalWords": 151,
+    "recognizedWords": 150,
+    "exactWordMatches": 148,
+    "unmatchedCanonicalWords": 3,
+    "unmatchedRecognizedWords": 2,
+    "sentenceChecks": [
+      {
+        "id": 1,
+        "matchedWords": 16,
+        "words": 16,
+        "edgeExact": true,
+        "vadEdgeSupport": false,
+        "quietSupportMs": [
+          4600,
+          4950
+        ],
+        "status": "ADVISORY",
+        "startMs": 90,
+        "endMs": 4775,
+        "crossesChapter": false
+      },
+      {
+        "id": 2,
+        "matchedWords": 18,
+        "words": 18,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          9570,
+          9920
+        ],
+        "status": "VERIFIED",
+        "startMs": 4920,
+        "endMs": 9745,
+        "crossesChapter": false
+      },
+      {
+        "id": 3,
+        "matchedWords": 7,
+        "words": 7,
+        "edgeExact": true,
+        "vadEdgeSupport": false,
+        "quietSupportMs": null,
+        "status": "ADVISORY",
+        "startMs": 9890,
+        "endMs": 11530,
+        "crossesChapter": false
+      },
+      {
+        "id": 4,
+        "matchedWords": 5,
+        "words": 5,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          12630,
+          12960
+        ],
+        "status": "VERIFIED",
+        "startMs": 11450,
+        "endMs": 12795,
+        "crossesChapter": false
+      },
+      {
+        "id": 5,
+        "matchedWords": 13,
+        "words": 13,
+        "edgeExact": true,
+        "vadEdgeSupport": false,
+        "quietSupportMs": [
+          16410,
+          16790
+        ],
+        "status": "ADVISORY",
+        "startMs": 12920,
+        "endMs": 16600,
+        "crossesChapter": false
+      },
+      {
+        "id": 6,
+        "matchedWords": 4,
+        "words": 4,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": null,
+        "status": "ADVISORY",
+        "startMs": 16760,
+        "endMs": 18270,
+        "crossesChapter": false
+      },
+      {
+        "id": 7,
+        "matchedWords": 12,
+        "words": 13,
+        "edgeExact": true,
+        "vadEdgeSupport": false,
+        "quietSupportMs": null,
+        "status": "ADVISORY",
+        "startMs": 18050,
+        "endMs": 23200,
+        "crossesChapter": false
+      },
+      {
+        "id": 8,
+        "matchedWords": 2,
+        "words": 2,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": null,
+        "status": "ADVISORY",
+        "startMs": 22870,
+        "endMs": 24200,
+        "crossesChapter": true
+      },
+      {
+        "id": 9,
+        "matchedWords": 22,
+        "words": 22,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          30170,
+          30510
+        ],
+        "status": "ADVISORY",
+        "startMs": 23900,
+        "endMs": 30340,
+        "crossesChapter": true
+      },
+      {
+        "id": 10,
+        "matchedWords": 13,
+        "words": 14,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          34410,
+          34770
+        ],
+        "status": "ADVISORY",
+        "startMs": 30340,
+        "endMs": 34590,
+        "crossesChapter": false
+      },
+      {
+        "id": 11,
+        "matchedWords": 7,
+        "words": 7,
+        "edgeExact": true,
+        "vadEdgeSupport": false,
+        "quietSupportMs": null,
+        "status": "ADVISORY",
+        "startMs": 34740,
+        "endMs": 37060,
+        "crossesChapter": false
+      },
+      {
+        "id": 12,
+        "matchedWords": 17,
+        "words": 18,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          41750,
+          42110
+        ],
+        "status": "ADVISORY",
+        "startMs": 36910,
+        "endMs": 41930,
+        "crossesChapter": false
+      },
+      {
+        "id": 13,
+        "matchedWords": 12,
+        "words": 12,
+        "edgeExact": true,
+        "vadEdgeSupport": true,
+        "quietSupportMs": [
+          45190,
+          45373
+        ],
+        "status": "VERIFIED",
+        "startMs": 42080,
+        "endMs": 45281,
+        "crossesChapter": false
+      }
+    ],
+    "preparationSeconds": 4.599957416008692
+  }
+}

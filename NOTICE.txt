@@ -1,0 +1,23 @@
+QuietChapter third-party and asset notices
+
+This repository contains a review build of QuietChapter and its original demo
+content. It does not redistribute Pleos SDK binaries, system images, map tiles,
+commercial audiobook recordings, or third-party routing services.
+
+AndroidX Media3 and its packaged Android runtime notices are Apache License 2.0.
+The complete text is included in licenses/Apache-2.0.txt and in the packaged
+runtime notice at app/src/main/assets/runtime-apache-2.0.txt.
+
+The bundled original demonstration narration was generated during development
+with Flite. Its applicable notice is retained in licenses/Flite-COPYING.txt and
+app/src/main/assets/demo-audio-license.txt. The project does not ship the Flite
+engine or voice models.
+
+Bundled Asta Sans and Noto Sans font files retain their SIL Open Font License
+1.1 texts in app/src/main/assets/fonts/Asta-OFL.txt and
+app/src/main/assets/fonts/Noto-OFL.txt respectively. Font provenance is stated
+in app/src/main/assets/fonts/README.txt.
+
+QuietChapter source, original artwork, and original demonstration text are not
+offered under an open-source licence by this review repository. No endorsement
+by Hyundai Motor Group, Kia, Genesis, 42dot, or Pleos is implied.

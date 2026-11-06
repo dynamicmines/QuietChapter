@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "assetSha256": "9dd996495f216e557775b759b4cf74a840426b20a8dd6956ba2b825d5162ae9e",
+  "legacyAssetSha256": "04c3346ad08c97dd49e137f6fa99611addc43a39d0f00668b43ebda84b7375e2",
+  "legacyAssetBytes": 1452000,
+  "chapterBoundaryMs": 24000,
+  "sourceGainDb": 5,
+  "narration": "Same original Flite narration; naturalness not newly qualified",
+  "storySha256": "819c5af1c5e066696de218ec6a5ed5d948cb45978c89ed0241f89d46414ec2ad"
+}

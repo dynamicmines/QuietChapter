@@ -1,0 +1,11 @@
+<resources>
+    <!-- QuietChapter internal targets; not certified Hyundai physical measurements. -->
+    <dimen name="qc_primary_touch">88dp</dimen>
+    <dimen name="qc_secondary_touch">64dp</dimen>
+    <dimen name="qc_row_touch">80dp</dimen>
+    <dimen name="qc_seek_track">10dp</dimen>
+    <dimen name="qc_seek_thumb">30dp</dimen>
+    <dimen name="qc_title_text">34sp</dimen>
+    <dimen name="qc_body_text">22sp</dimen>
+    <dimen name="qc_secondary_text">18sp</dimen>
+</resources>

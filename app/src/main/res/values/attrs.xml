@@ -1,0 +1,11 @@
+<resources>
+    <attr name="qc_background" format="color" />
+    <attr name="qc_surface" format="color" />
+    <attr name="qc_ink" format="color" />
+    <attr name="qc_muted" format="color" />
+    <attr name="qc_accent" format="color" />
+    <attr name="qc_border" format="color" />
+    <attr name="qc_disabled" format="color" />
+    <attr name="qc_selected" format="color" />
+    <attr name="qc_ripple" format="color" />
+</resources>

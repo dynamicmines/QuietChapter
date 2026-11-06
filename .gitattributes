@@ -1,0 +1,12 @@
+* text=auto
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
+*.png binary
+*.ttf binary
+*.wav binary
+
+# Preserve upstream licence text byte-for-byte, including its original spacing.
+licenses/** -whitespace
+app/src/main/assets/demo-audio-license.txt -whitespace
+app/src/main/assets/fonts/*-OFL.txt -whitespace

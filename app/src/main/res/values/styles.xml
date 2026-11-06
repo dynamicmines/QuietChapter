@@ -1,0 +1,33 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">?attr/qc_accent</item>
+        <item name="android:windowBackground">?attr/qc_background</item>
+        <item name="android:colorBackground">?attr/qc_background</item>
+        <item name="android:statusBarColor">?attr/qc_background</item>
+        <item name="android:navigationBarColor">?attr/qc_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="qc_background">@color/qc_background</item>
+        <item name="qc_surface">@color/qc_surface</item>
+        <item name="qc_ink">@color/qc_ink</item>
+        <item name="qc_muted">@color/qc_muted</item>
+        <item name="qc_accent">@color/qc_accent</item>
+        <item name="qc_border">@color/qc_border</item>
+        <item name="qc_disabled">@color/qc_disabled</item>
+        <item name="qc_selected">@color/qc_selected</item>
+        <item name="qc_ripple">@color/qc_ripple</item>
+    </style>
+    <style name="AppThemeDay" parent="AppTheme">
+        <item name="qc_background">@color/qc_background_day</item>
+        <item name="qc_surface">@color/qc_surface_day</item>
+        <item name="qc_ink">@color/qc_ink_day</item>
+        <item name="qc_muted">@color/qc_muted_day</item>
+        <item name="qc_accent">@color/qc_accent_day</item>
+        <item name="qc_border">@color/qc_border_day</item>
+        <item name="qc_disabled">@color/qc_disabled_day</item>
+        <item name="qc_selected">@color/qc_selected_day</item>
+        <item name="qc_ripple">@color/qc_ripple_day</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

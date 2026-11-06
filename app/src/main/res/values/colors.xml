@@ -1,0 +1,11 @@
+<resources>
+    <color name="qc_background">#15191F</color>
+    <color name="qc_surface">#242A32</color>
+    <color name="qc_ink">#F2F4F7</color>
+    <color name="qc_muted">#A7B4C3</color>
+    <color name="qc_accent">#CAD9E9</color>
+    <color name="qc_border">#A7B4C3</color>
+    <color name="qc_selected">#354353</color>
+    <color name="qc_disabled">#242A32</color>
+    <color name="qc_ripple">#32CAD9E9</color>
+</resources>

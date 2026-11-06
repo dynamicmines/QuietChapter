@@ -1,0 +1,11 @@
+<resources>
+    <color name="qc_background_day">#F2F4F7</color>
+    <color name="qc_surface_day">#FFFFFF</color>
+    <color name="qc_ink_day">#1B2430</color>
+    <color name="qc_muted_day">#566578</color>
+    <color name="qc_accent_day">#395A7E</color>
+    <color name="qc_border_day">#566578</color>
+    <color name="qc_selected_day">#DFE7F0</color>
+    <color name="qc_disabled_day">#E3E8EE</color>
+    <color name="qc_ripple_day">#24395A7E</color>
+</resources>

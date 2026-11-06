@@ -1,0 +1,27 @@
+{
+  "sourceSha256": "9dd996495f216e557775b759b4cf74a840426b20a8dd6956ba2b825d5162ae9e",
+  "durationMs": 45373,
+  "method": "10ms mono RMS below -42dBFS for >=150ms; silence END; acoustic only, no semantic claim",
+  "boundariesMs": [
+    210,
+    1810,
+    4950,
+    9920,
+    11480,
+    12960,
+    16790,
+    18080,
+    18990,
+    20650,
+    22900,
+    23930,
+    25240,
+    26990,
+    30510,
+    31860,
+    34770,
+    36940,
+    39980,
+    42110
+  ]
+}
